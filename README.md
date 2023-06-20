@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
+![MasterHead](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
 <h1 align="center">Hi 👋, I'm Toufiq Ahmed Shawon</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img align="right" alt="coding gif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
