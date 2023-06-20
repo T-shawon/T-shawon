@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
 <h1 align="center">Hi 👋, I'm Toufiq Ahmed Shawon</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
-<a href="[T-shawon.github.io](https://t-shawon.github.io/)"><img align="right" alt="coding gif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></a>
+<a href="https://t-shawon.github.io/"><img align="right" alt="coding gif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-shawon&label=Profile%20views&color=0e75b6&style=flat" alt="t-shawon" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
