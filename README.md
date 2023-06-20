@@ -1,4 +1,4 @@
-[![MasterHead](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KA593kO0JvXMs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-user-interface-error-KA593kO0JvXMs">via GIPHY</a></p>))
+[![MasterHead](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
 <h1 align="center">Hi 👋, I'm Toufiq Ahmed Shawon</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 <img align="right" alt="coding gif" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
