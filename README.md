@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/T-shawon/T-shawon.github.io](https://github.com/T-shawon/T-shawon.github.io)
+- 👨‍💻 All of my projects are available at [[[https://github.com/T-shawon/T-shawon.github.io](https://t-shawon.github.io/)]
   
 - 📫 How to reach me **toufiq.shawon404@gmail.com**
 
