@@ -1,42 +1,68 @@
-<!-- MasterHead GIF - full width with glass blur behind -->
-<div style="position: relative; width: 100%; max-height: 400px; overflow: hidden; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.2);">
-  <img
-    src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif"
-    alt="MasterHead"
-    style="width: 100%; height: 400px; object-fit: cover; filter: brightness(0.8);"
-  />
-  <div style="position: absolute; inset: 0; background: rgba(255 255 255 / 0.15); backdrop-filter: blur(8px);"></div>
+<!-- Glass-style full-width header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" alt="MasterHead" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); backdrop-filter: blur(6px);" />
 </div>
 
-<!-- Intro Section -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem; margin: 2rem 0; padding: 0 1rem;">
-  
-  <!-- Text Left -->
-  <div style="flex: 1 1 350px; max-width: 600px; background: rgba(255 255 255 / 0.1); border-radius: 16px; padding: 2rem; box-shadow: 0 8px 24px rgba(0,0,0,0.15); backdrop-filter: blur(8px); color: #eee;">
-    <h1 style="font-size: 2.8rem; margin-bottom: 0.3rem; font-weight: 700; background: linear-gradient(90deg, #6a11cb, #2575fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      Hi 👋, I'm <span style="color: #fff;">Toufiq Ahmed Shawon</span>
-    </h1>
-    <h3 style="font-weight: 400; font-size: 1.4rem; margin-top: 0; color: #ddd;">
-      A passionate Software Developer from Bangladesh
-    </h3>
+<h1 align="center" style="font-weight: bold; font-size: 3em; margin-top: 20px;">Hi 👋, I'm Toufiq Ahmed Shawon</h1>
+<h3 align="center" style="color: #aaa;">A Passionate Software Developer from Bangladesh</h3>
 
-    <p style="margin-top: 1.5rem; font-size: 1.1rem; line-height: 1.5; color: #ccc;">
-      🌱 Currently diving deep into <strong>Machine Learning</strong> and <strong>Data Science</strong>.
-      <br />
-      👨‍💻 All my projects and experiments live at <a href="https://t-shawon.github.io/" style="color: #6a11cb; text-decoration: underline;" target="_blank">t-shawon.github.io</a>.
-      <br />
-      📫 Feel free to reach out at <strong>toufiq.shawon404@gmail.com</strong>.
-    </p>
-  </div>
+<p align="center">
+  <a href="https://t-shawon.github.io/" target="_blank">
+    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" width="300" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);" />
+  </a>
+</p>
 
-  <!-- Coding GIF Right -->
-  <div style="flex: 1 1 300px; max-width: 400px; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-    <a href="https://t-shawon.github.io/" target="_blank" style="display: block;">
-      <img
-        src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
-        alt="Coding animation"
-        style="width: 100%; height: auto; display: block;"
-      />
-    </a>
-  </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=t-shawon&label=Profile%20Views&color=6a11cb&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+- 🤖 Machine Learning
+- 📊 Data Science
+
+### 💼 Portfolio
+- 🔗 [My Projects & Portfolio](https://t-shawon.github.io/)
+
+### 📫 Contact Me
+- 📧 **toufiq.shawon404@gmail.com**
+
+---
+
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/toufiq-ahmed-shawon-6b7824236/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/shawon404" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
+  </a>
+  <a href="https://codeforces.com/profile/shawon404" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" height="40" alt="Codeforces" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Tools & Technologies</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,django,laravel,react,wordpress,mysql,pandas,selenium,c,cpp" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t-shawon&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-shawon&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-shawon&theme=fire&hide_border=true" alt="GitHub Streak" />
+</p>
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" height="40" alt="🔥 Fire Animation" />
+</p>
+ -->
