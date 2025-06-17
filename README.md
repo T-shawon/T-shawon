@@ -62,6 +62,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-shawon&theme=fire&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" height="40" alt="🔥 Fire Animation" />
-</p>
+</p> -->
