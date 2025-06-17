@@ -30,14 +30,13 @@
 
 ---
 
-### 🌐 Connect With Me
-
+<h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/toufiq-ahmed-shawon-6b7824236/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://kaggle.com/shawon404" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
   </a>
   <a href="https://codeforces.com/profile/shawon404" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" height="40" alt="Codeforces" />
@@ -46,18 +45,23 @@
 
 ---
 
-### 🛠️ Tools & Technologies
-
+<h3 align="center">🛠️ Tools & Technologies</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,django,mysql,pandas,selenium,c,cpp" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t-shawon&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-shawon&layout=compact&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-shawon&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=t-shawon&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-shawon&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-shawon&theme=fire&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" height="40" alt="🔥 Fire Animation" />
+</p>
