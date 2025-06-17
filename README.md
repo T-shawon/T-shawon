@@ -1,4 +1,7 @@
-![MasterHead](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" alt="MasterHead" style="width: 100%; max-height: 400px; object-fit: cover;" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Toufiq Ahmed Shawon</h1>
 <h3 align="center">🚀 A Passionate Software Developer from Bangladesh</h3>
