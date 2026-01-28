@@ -1,68 +1,61 @@
-<!-- Glass-style full-width header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" alt="MasterHead" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); backdrop-filter: blur(6px);" />
-</div>
-
-<h1 align="center" style="font-weight: bold; font-size: 3em; margin-top: 20px;">Hi 👋, I'm Toufiq Ahmed Shawon</h1>
-<h3 align="center" style="color: #aaa;">A Passionate Software Developer from Bangladesh</h3>
+# ⚡ Hello World, I'm Toufiq Ahmed Shawon 🇧🇩
 
 <p align="center">
-  <a href="https://t-shawon.github.io/" target="_blank">
-    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" width="300" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);" />
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Software%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+## 💫 About Me
+A passionate developer dedicated to building robust web applications and exploring the frontiers of **Data Science** and **Machine Learning**.
+
+* 🔭 **Working on:** Creative web solutions using Django & Laravel.
+* 🌱 **Learning:** Advanced Machine Learning models & Data Visualization.
+* 💬 **Ask me about:** Python, Web Scraping, or competitive programming.
+* 🎯 **Goal:** To bridge the gap between complex data and user-friendly interfaces.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Web Development & Design
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,django,laravel,wordpress,figma)
+
+### 📊 Data Science & Automation
+![Skills](https://skillicons.dev/icons?i=py,pandas,mysql,selenium)
+
+### 💻 Languages & Competitive Programming
+![Skills](https://skillicons.dev/icons?i=c,cpp,py)
+
+---
+
+## 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t-shawon/t-shawon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t-shawon/t-shawon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/t-shawon/t-shawon/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 📊 My GitHub Journey
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=t-shawon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-shawon&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=t-shawon&label=Profile%20Views&color=6a11cb&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-shawon&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 🧠 Currently Learning
-- 🤖 Machine Learning
-- 📊 Data Science
+## 🌐 Let's Connect
+<p align="left">
+<a href="https://t-shawon.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/toufiq-ahmed-shawon-6b7824236/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kaggle.com/shawon404" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/shawon404" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+</p>
 
-### 💼 Portfolio
-- 🔗 [My Projects & Portfolio](https://t-shawon.github.io/)
-
-### 📫 Contact Me
-- 📧 **toufiq.shawon404@gmail.com**
-
----
-
-<h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/toufiq-ahmed-shawon-6b7824236/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/shawon404" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
-  </a>
-  <a href="https://codeforces.com/profile/shawon404" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" height="40" alt="Codeforces" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=t-shawon&label=Profile%20Views&color=6a11cb&style=flat-square" />
 </p>
-
----
-
-<h3 align="center">🛠️ Tools & Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,django,laravel,react,wordpress,mysql,pandas,selenium,c,cpp" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t-shawon&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-shawon&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
-
-<h3 align="center">🔥 GitHub Streak</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-shawon&theme=fire&hide_border=true" alt="GitHub Streak" />
-</p>
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" height="40" alt="🔥 Fire Animation" />
-</p>
- -->
