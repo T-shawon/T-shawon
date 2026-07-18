@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0D3B1A,100:00FF41&height=220&section=header&text=Toufiq%20Ahmed%20Shawon&fontColor=00FF41&fontSize=46&animation=fadeIn&fontAlignY=36&desc=%3C%20Software%20Developer%20from%20Bangladesh%20%2F%3E&descAlignY=54&descSize=18&descColor=39FF14" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0D3B1A,100:00FF41&height=220&section=header&text=Toufiq%20Ahmed%20Shawon&fontColor=00FF41&fontSize=46&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20from%20Bangladesh&descAlignY=54&descSize=18&descColor=39FF14" width="100%" alt="header"/>
 
 </div>
 
@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-shawon&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=6E7681&stroke=00FF41" alt="GitHub Streak" width="80%"/>
+  <img src="https://streak-stats.demolab.com/?user=t-shawon&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=6E7681&stroke=00FF41" alt="GitHub Streak" width="80%"/>
 </div>
 
 ## `>` Trophy Cabinet
