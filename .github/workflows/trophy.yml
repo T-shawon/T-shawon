@@ -21,7 +21,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: t-shawon
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: matrix
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy card
