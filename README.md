@@ -66,6 +66,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,django,laravel,react,wordpress,mysql,pandas,selenium,c,cpp&theme=dark" alt="tools"/>
 </p>
 
+<div align="center">
+  <img src="./profile/matrix-rain.svg" width="100%" alt="matrix rain divider"/>
+</div>
+
 ## `>` GitHub Stats
 
 <div align="center">
@@ -80,8 +84,15 @@
 ## `>` Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=t-shawon&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" alt="trophies"/>
+  <img src="./profile/trophy.svg" alt="trophies"/>
 </div>
+
+## `>` Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/t-shawon/t-shawon/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+</div>
+
 
 <div align="center">
 
