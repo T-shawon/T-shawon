@@ -87,7 +87,7 @@
   <img src="./profile/trophy.svg" alt="trophies"/>
 </div>
 
-## `>` Contribution Snake
+## `>` Contribution
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/t-shawon/t-shawon/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
