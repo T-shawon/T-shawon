@@ -69,18 +69,18 @@
 ## `>` GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t-shawon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-shawon&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=t-shawon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=t-shawon&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=t-shawon&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=6E7681&stroke=00FF41" alt="GitHub Streak" width="80%"/>
+  <img src="https://streak-stats.demolab.com/?user=t-shawon&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=6E7681&stroke=00FF41" alt="GitHub Streak" width="80%"/>
 </div>
 
 ## `>` Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=t-shawon&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=t-shawon&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" alt="trophies"/>
 </div>
 
 <div align="center">
