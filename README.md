@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0D3B1A,100:00FF41&height=220&section=header&text=Toufiq%20Ahmed%20Shawon&fontColor=00FF41&fontSize=46&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20from%20Bangladesh&descAlignY=54&descSize=18&descColor=39FF14" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0D3B1A,100:00FF41&height=220&section=header&text=Toufiq%20Ahmed%20Shawon&fontColor=00FF41&fontSize=46&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Laravel%20Developer&descAlignY=54&descSize=18&descColor=39FF14" width="100%" alt="header"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami%3A+Toufiq+Ahmed+Shawon;%3E+status%3A+building+cool+things+with+code;%3E+learning%3A+Machine+Learning+%26+Data+Science;%3E+echo+%22Thanks+for+visiting+my+profile%22" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami%3A+Toufiq+Ahmed+Shawon;%3E+role%3A+Laravel+%26+Full-Stack+Developer;%3E+building%3A+scalable+web+applications+%26+APIs;%3E+exploring%3A+AI%2C+Machine+Learning+%26+RAG;%3E+echo+%22Thanks+for+visiting+my+profile%22" alt="typing-svg" />
 
 </div>
 
@@ -28,10 +28,20 @@
 
 </div>
 
+## `>` About Me
+
+<p align="center">
+  Software Developer focused on building reliable web applications, REST APIs, and business solutions.
+  <br/>
+  Currently working primarily with Laravel and PHP, while expanding into modern frontend development,
+  system design, DevOps, and AI-powered applications.
+</p>
+
 ## `>` Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/-AI%20%26%20Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41" alt="AI & Machine Learning"/>
+  <img src="https://img.shields.io/badge/-RAG%20%26%20LLM%20Applications-000000?style=for-the-badge&logo=openai&logoColor=00FF41" alt="RAG & LLM"/>
   <img src="https://img.shields.io/badge/-Data%20Science-000000?style=for-the-badge&logo=pandas&logoColor=00FF41" alt="Data Science"/>
 </p>
 
@@ -63,7 +73,7 @@
 ## `>` Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,django,laravel,react,wordpress,mysql,pandas,selenium,c,cpp&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,python,react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,mysql,postgresql,redis,git,github,linux,docker,postman,figma,wordpress&theme=dark" alt="tools"/>
 </p>
 
 <div align="center">
